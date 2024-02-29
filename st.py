@@ -38,4 +38,3 @@ if st.button('Predict'):
     #st.write('Prediction Results:')
     #st.write(results[0])
     st.markdown(f"<h3>Prediction Results: {results[0]}</h3>", unsafe_allow_html=True)
-
